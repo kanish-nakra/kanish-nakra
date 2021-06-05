@@ -18,6 +18,6 @@
 <code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
 
 #### Stats 👨‍💻
-![kanish-nakra's github stats](https://github-readme-stats.vercel.app/api?username=kanish-nakra&show_icons=true&theme=radical)
+![kanish's github stats](https://github-readme-stats.vercel.app/api?username=kanish-nakra&show_icons=true&theme=radical)
 
 ##### Thanks Alot for coming to my profile.
